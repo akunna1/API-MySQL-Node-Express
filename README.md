@@ -1,12 +1,6 @@
-
-- database: social_media_db
-- collection: posts
-
-- npm init -y
-- npm install express mongoose multer body-parser
-
+- Create a database and a posts table with fields for the id, message, and image_url to store post details...
+  
 #### Steps
-- Setup MySQL Database: Create a database and a posts table with fields for the id, message, and image_url to store post details
 - Install Required Packages: npm init -y, npm install express mysql multer body-parser
 - Creating the posts table:
 
